@@ -1,0 +1,5 @@
+/Users/pavel_liso/aula/Primeri.CSharp.Terminal/Modul02/Modul02/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/pavel_liso/aula/Primeri.CSharp.Terminal/Modul02/Modul02/bin/Debug/Modul02.exe.mdb
+/Users/pavel_liso/aula/Primeri.CSharp.Terminal/Modul02/Modul02/bin/Debug/Modul02.exe
+/Users/pavel_liso/aula/Primeri.CSharp.Terminal/Modul02/Modul02/obj/x86/Debug/Modul02.exe
+/Users/pavel_liso/aula/Primeri.CSharp.Terminal/Modul02/Modul02/obj/x86/Debug/Modul02.exe.mdb

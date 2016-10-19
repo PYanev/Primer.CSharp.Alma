@@ -1,0 +1,5 @@
+/Users/pavel_liso/aula/Primer.CSharp.Alma/HelloAula/HelloAula/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/pavel_liso/aula/Primer.CSharp.Alma/HelloAula/HelloAula/bin/Debug/HelloAula.exe.mdb
+/Users/pavel_liso/aula/Primer.CSharp.Alma/HelloAula/HelloAula/bin/Debug/HelloAula.exe
+/Users/pavel_liso/aula/Primer.CSharp.Alma/HelloAula/HelloAula/obj/x86/Debug/HelloAula.exe
+/Users/pavel_liso/aula/Primer.CSharp.Alma/HelloAula/HelloAula/obj/x86/Debug/HelloAula.exe.mdb
