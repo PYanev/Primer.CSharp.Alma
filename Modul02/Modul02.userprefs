@@ -1,13 +1,11 @@
-﻿<Properties StartupConfiguration="{791FF84F-1009-4AB8-908F-8AC7B9960107}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Modul02/Program.cs">
-    <Files>
-      <File FileName="Modul02/Program.cs" Line="60" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{51AFA155-313A-43A4-8D0C-24660C98504F}|Default">
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Modul02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ReadFromCommandLine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SquareOfStars PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

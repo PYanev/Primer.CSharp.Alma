@@ -1,0 +1,5 @@
+/Users/pavel_liso/aula/Primeri.CSharp.Terminal/Modul02/SquareOfStars/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/pavel_liso/aula/Primeri.CSharp.Terminal/Modul02/SquareOfStars/bin/Debug/SquareOfStars.exe.mdb
+/Users/pavel_liso/aula/Primeri.CSharp.Terminal/Modul02/SquareOfStars/bin/Debug/SquareOfStars.exe
+/Users/pavel_liso/aula/Primeri.CSharp.Terminal/Modul02/SquareOfStars/obj/x86/Debug/SquareOfStars.exe
+/Users/pavel_liso/aula/Primeri.CSharp.Terminal/Modul02/SquareOfStars/obj/x86/Debug/SquareOfStars.exe.mdb

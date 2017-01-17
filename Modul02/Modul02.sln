@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul02", "Modul02\Modul02.csproj", "{791FF84F-1009-4AB8-908F-8AC7B9960107}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromCommandLine", "ReadFromCommandLine\ReadFromCommandLine.csproj", "{51AFA155-313A-43A4-8D0C-24660C98504F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareOfStars", "SquareOfStars\SquareOfStars.csproj", "{F55E7EB3-3DD9-42CB-9400-A79245C672E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +17,13 @@ Global
 		{791FF84F-1009-4AB8-908F-8AC7B9960107}.Debug|x86.Build.0 = Debug|x86
 		{791FF84F-1009-4AB8-908F-8AC7B9960107}.Release|x86.ActiveCfg = Release|x86
 		{791FF84F-1009-4AB8-908F-8AC7B9960107}.Release|x86.Build.0 = Release|x86
+		{51AFA155-313A-43A4-8D0C-24660C98504F}.Debug|x86.ActiveCfg = Debug|x86
+		{51AFA155-313A-43A4-8D0C-24660C98504F}.Debug|x86.Build.0 = Debug|x86
+		{51AFA155-313A-43A4-8D0C-24660C98504F}.Release|x86.ActiveCfg = Release|x86
+		{51AFA155-313A-43A4-8D0C-24660C98504F}.Release|x86.Build.0 = Release|x86
+		{F55E7EB3-3DD9-42CB-9400-A79245C672E8}.Debug|x86.ActiveCfg = Debug|x86
+		{F55E7EB3-3DD9-42CB-9400-A79245C672E8}.Debug|x86.Build.0 = Debug|x86
+		{F55E7EB3-3DD9-42CB-9400-A79245C672E8}.Release|x86.ActiveCfg = Release|x86
+		{F55E7EB3-3DD9-42CB-9400-A79245C672E8}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
